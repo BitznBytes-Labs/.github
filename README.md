@@ -1,1 +1,1 @@
-# .github
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24&text=BitznBytes%20Labs&reversal=false&section=footer&fontSize=60&textBg=false&desc=Powered%20by%20Hope%20and%20Prayers&descSize=20&descAlign=50&descAlignY=68)
